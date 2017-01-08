@@ -1,3 +1,4 @@
 ###### Qt Creator ignores ######
 
 *.pro.user
+*.pro.user.*
